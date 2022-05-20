@@ -1,0 +1,13 @@
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.exe
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.deps.json
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.json
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.dev.json
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Users\l340\Desktop\Dolap\LearnC#\kodlama.io\tasks\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.genruntimeconfig.cache
